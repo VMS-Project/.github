@@ -18,3 +18,6 @@ Get in touch 💬
 Want to support us? (WIP)
 
 See Issues & Forum for more
+
+--
+![OIN_member_horizontal](https://github.com/user-attachments/assets/d3744d5a-c368-4bb4-a73f-cd1ceda6f721)
